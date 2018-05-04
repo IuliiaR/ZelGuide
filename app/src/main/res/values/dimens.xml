@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_padding">16dp</dimen>
+    <dimen name="secondary_padding">4dp</dimen>
+    <dimen name="base_margin">16dp</dimen>
+
+    <dimen name="margin">16dp</dimen>
+    <dimen name="spacingVertical">16dp</dimen>
+    <dimen name="spacingVerticalMax">32dp</dimen>
+    <dimen name="spacingHorizontal">32dp</dimen>
+    <dimen name="logo">80dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="titleSize">24sp</dimen>
+</resources>

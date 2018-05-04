@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/spacingHorizontal"
+    android:layout_marginStart="@dimen/spacingHorizontal"
+    android:layout_marginRight="@dimen/spacingHorizontal"
+    android:layout_marginEnd="@dimen/spacingHorizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:paddingBottom="@dimen/spacingVerticalMax"
+        android:paddingTop="@dimen/spacingVerticalMax"
+        android:textSize="@dimen/textSize"
+        tools:text="Place description" />
+
+    <TextView
+        android:id="@+id/phone"
+        style="@style/PlaceInfoStyle"
+        android:autoLink="phone"
+        android:drawableLeft="@drawable/phone"
+        android:drawableStart="@drawable/phone"
+        android:textColorLink="@color/textColorPrimary"
+        tools:text="+7-495-738-77-72" />
+
+    <TextView
+        android:id="@+id/url"
+        style="@style/PlaceInfoStyle"
+        android:autoLink="web"
+        android:drawableLeft="@drawable/web"
+        android:drawableStart="@drawable/web"
+        android:textColorLink="@color/textColorPrimary"
+        tools:text="yandex.ru" />
+
+    <TextView
+        android:id="@+id/open_hours"
+        style="@style/PlaceInfoStyle"
+        android:drawableLeft="@drawable/clock_outline"
+        android:drawableStart="@drawable/clock_outline"
+        tools:text="9:00AM - 10:00PM" />
+
+    <TextView
+        android:id="@+id/fee"
+        style="@style/PlaceInfoStyle"
+        android:drawableLeft="@drawable/credit_card"
+        android:drawableStart="@drawable/credit_card"
+        tools:text="Tickets from $300" />
+</LinearLayout>

@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/card_info_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:minHeight="90dp">
+
+        <ImageView
+            android:id="@+id/place_image"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dom_lani" />
+
+        <TextView
+            android:id="@+id/place_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/info_text"
+            android:paddingBottom="@dimen/secondary_padding"
+            android:paddingLeft="@dimen/base_padding"
+            android:paddingStart="@dimen/base_padding"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            tools:text="Vedogon theater" />
+
+        <TextView
+            android:id="@+id/info_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/place_image"
+            android:paddingBottom="@dimen/base_padding"
+            android:paddingLeft="@dimen/base_padding"
+            android:paddingStart="@dimen/base_padding"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            tools:text="theater" />
+
+    </RelativeLayout>
+</LinearLayout>

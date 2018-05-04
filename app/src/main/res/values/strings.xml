@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Zel Guide</string>
+    <string name="tab_title_sight">Sights</string>
+    <string name="tab_title_entertainment">Entertainments</string>
+    <string name="tab_title_restaurant">Food</string>
+    <string name="tab_title_hotel">Hotels</string>
+
+    <!-- SIGHTS-->
+    <string name="sight_fleita">Fleita</string>
+    <string name="sight_fleita_type">architecture</string>
+    <string name="sight_fleita_address">https://goo.gl/maps/WsvZtM9UY8C2</string>
+    <string name="sight_fleita_description"><![CDATA[The eight-story residential building, elevated on the supports, has a length of 516 meters.
+    The rear facade of the house is animated by a clear rhythm of staircase ledges protruding over the extended volume of the house, which resemble flute valves.]]></string>
+    <string name="sight_fleita_url">www.sovarch.ru/catalog/object/665</string>
+    <string name="sight_fleita_open_hours">24 hours</string>
+    <string name="sight_fleita_fees">free</string>
+
+    <string name="sight_dk">Cultural center "Zelenograd"</string>
+    <string name="sight_dk_type">cultural</string>
+    <string name="sight_dk_address">https://goo.gl/maps/Fn1jYz3iPc82</string>
+    <string name="sight_dk_description"><![CDATA[The Public Autonomous Establishment of Culture of the city of Moscow "Cultural Centre "Zelenograd" is the largest establishment of culture in Zelenograd.
+    The main building of the centre was created based on an original project by the group of architectures, designers and artists I.A. Pokrovskiy, Y.A. Dmitriev, D.A. Lisichkin, L.K. Petkevich, A.G. Stiskin and B.M. Zarhi.
+     The official opening was held on April 17, 1983. The building itself is not only an original architectural construction, it is a multipurpose concert and show complex, which holds an honorable place among the best concert venues of Moscow.
+     The centre encompasses multiple halls: a cinema and concert hall with 1000 seats for guests, a theatre hall with 760 seats, a dance hall with the capacity of 220 people and a lecture auditorium with 80 seats.
+     The centre is furnished with up-to-date light and sound equipment. The total area of the building is over 20 000 square meters. Out of this space, 2 000 square meters are used for creative collectives and club formations.
+     Since the year 1994 the Cultural Centre "Zelenograd" has been included in the system of public establishments of culture of the city of Zelenograd. ]]></string>
+    <string name="sight_dk_url">dkzelenograd.ru</string>
+    <string name="sight_dk_phone">+7 499 734-31-71</string>
+    <string name="sight_dk_open_hours">10:00AM - 10:00PM</string>
+
+    <string name="sight_rubezh">Shtyki Memorial</string>
+    <string name="sight_rubezh_type">memorial</string>
+    <string name="sight_rubezh_address">https://goo.gl/maps/SGNpRDR7EL22</string>
+    <string name="sight_rubezh_description"><![CDATA[The Shtyki Memorial (Russian: Мемориальный комплекс «Штыки», lit. bayonets),
+    also named the Monument to the Defenders of Moscow (памятник Защитникам Москвы), is a memorial complex in honour of those who defended Russia in the Battle of Moscow.
+     At the site are a common grave and an architectural complex.
+     It is located on the 40th km of Leningrad highway, at the second entry into the city of Zelenograd heading south, and the road to Mendeleyevo heading north.
+     The memorial complex obtained its name because of the central obelisk, which represents the stylized image of three bayonets held together. The first burials in the common grave were in the winter of 1941;
+     the architectural features were completed on 24 June 1974. The architects of the project were I. A. Pokrovsky, and Y. A. Sverdlovsky, with sculptors A. G. Shteyman, and E. A. Shteyman-Derevyanko.]]></string>
+    <string name="sight_rubezh_url">en.wikipedia.org/wiki/Shtyki_Memorial</string>
+    <string name="sight_rubezh_phone">+7 (495) 536–05–05</string>
+    <string name="sight_rubezh_fees">free</string>
+    <string name="sight_rubezh_open_hours">24 hours</string>
+
+    <string name="sight_lani">Dom Lani</string>
+    <string name="sight_lani_type">park</string>
+    <string name="sight_lani_address">https://goo.gl/maps/gPEzA2s9Nvj</string>
+    <string name="sight_lani_description"><![CDATA["Dom Lani" is a new open-air complex, a quiet corner of pristine nature.
+    It was opened on February 21, 2015. Today, on the territory of a mini-zoo with an area of approximately 2 hectares, a pair of young deer, rabbits, musk ducks, turkeys and guinea fowls feel free.]]></string>
+    <string name="sight_lani_url">www.zeloopt.ru/zelao_eco/ru/</string>
+    <string name="sight_lani_phone">+7 (499) 735–55–56</string>
+    <string name="sight_lani_fees">free</string>
+    <string name="sight_lani_open_hours">10:00AM - 7:00PM</string>
+
+    <string name="sight_victory">Victory Park</string>
+    <string name="sight_victory_type">park</string>
+    <string name="sight_victory_address">https://goo.gl/maps/xS9rLyPxwHE2</string>
+    <string name="sight_victory_description"><![CDATA[In the heart of Zelenograd, located between the prefecture and the Palace of Culture "Zelenograd",
+    is the central and so far the only park in the district, opened in honor of the 40th anniversary of Victory - "Victory Park".
+    \nThe pearl of this place can be considered a series of fountains united in a large multi-stage cascade.
+    Several small pools, laid out in mosaics in blue and purple tones, are located on different levels and descend from the central square to the large City Pond, representing small Niagara.
+    The cascade ends with three fountains. Since running water is used in the cascade, its shallow and shallow pools have become a favorite place for a toddler, ready to dabble in hot summer days.
+    \nThere are several paved paths around the park, on numerous benches you can sit down and relax in the hot noon. The park offers a magnificent view of the lake.
+    Elegant park lights complement the picture of rest and serenity. Nearby is the city beach.]]></string>
+    <string name="sight_victory_url">zlngrd.ru/sights/25223.html</string>
+    <string name="sight_victory_fees">free</string>
+    <string name="sight_victory_open_hours">24 hours</string>
+
+    <string name="sight_serednikovo">Usad\'ba Serednikovo</string>
+    <string name="sight_serednikovo_type">park</string>
+    <string name="sight_serednikovo_address">https://goo.gl/maps/P1NG4Lctvh32</string>
+    <string name="sight_serednikovo_description"><![CDATA[Manor Serednikovo (Mtsyri - Spassky, XVII - XVIII centuries.) - an object of cultural heritage of federal significance.
+    The manor complex is located on the territory of the Municipal formation of the rural settlement Kutuzovskoye Solnechnogorsk municipal district of the Moscow region and includes 16 historical buildings,
+    a park area of 53 hectares with a three-pond pedestrian.]]></string>
+    <string name="sight_serednikovo_url">serednikovo.su</string>
+    <string name="sight_serednikovo_phone">+7 (925) 010–62–40</string>
+    <string name="sight_serednikovo_fees">100rub.</string>
+    <string name="sight_serednikovo_open_hours">9:00AM - 10:00PM</string>
+
+    <!-- ENTERTAINMENTS -->
+    <string name="entertainment_vedogon">Vedogon\'-Teatr</string>
+    <string name="entertainment_vedogon_type">theater</string>
+    <string name="entertainment_vedogon_address">https://goo.gl/maps/YMNfKhvSgqC2</string>
+    <string name="entertainment_vedogon_description"><![CDATA[A large building on Yunosti Street is known to the people of Zelenograd as a former cinema "Era".
+     \nHowever, a special, theatrical atmosphere reigned for a long time already, the guardian of which was Vedogon, the spirit of a living being and creativity from ancient Slavic myths.
+     \nIt was this name that was given to the theater, founded by the honored artist of the Russian Federation Pavel Kurochkin together with like-minded people and colleagues.]]></string>
+    <string name="entertainment_vedogon_url">vedogon.ru</string>
+    <string name="entertainment_vedogon_phone">+7 (499) 740–93–50</string>
+    <string name="entertainment_vedogon_fees">Tickets from ₽500</string>
+    <string name="entertainment_vedogon_open_hours"><![CDATA[Ticket office 11:00AM - 08:00PM]]></string>
+
+    <string name="entertainment_quest">IQquest</string>
+    <string name="entertainment_quest_type">quest</string>
+    <string name="entertainment_quest_address">https://goo.gl/maps/ekS1pgqsAWE2</string>
+    <string name="entertainment_quest_description"><![CDATA[We offer you not only with pleasure, but also with profit to spend a birthday, corporate or other event in IQquest!
+    \nAt your disposal will be our guest area, able to accommodate up to 20 people, as well as:
+    \n- our quests Confrontation and the Age of Technology;
+    \n- tea, coffee;
+    \n- projector for films and presentations;
+    \n- puzzles and board games;
+    \n- a cozy and friendly atmosphere.]]></string>
+    <string name="entertainment_quest_url">iqquest.ru</string>
+    <string name="entertainment_quest_phone">+7 (499) 649–39–29</string>
+    <string name="entertainment_quest_fees">2500 – 3000 rubles</string>
+    <string name="entertainment_quest_open_hours">12:00PM – 02:00AM</string>
+
+    <string name="entertainment_iridium">Iridium</string>
+    <string name="entertainment_iridium_type">Shopping Mall</string>
+    <string name="entertainment_iridium_address">https://goo.gl/maps/5tsYan7DwY52</string>
+    <string name="entertainment_iridium_description"><![CDATA[Iridium Shopping and Entertainment Centre.]]></string>
+    <string name="entertainment_iridium_url">zelenograd-iridium.ru</string>
+    <string name="entertainment_iridium_phone">+7 (499) 731–22–88</string>
+    <string name="entertainment_iridium_fees">₽₽</string>
+    <string name="entertainment_iridium_open_hours">10:00AM – 10:00PM</string>
+
+    <string name="entertainment_panda">Pandapark</string>
+    <string name="entertainment_panda_type">sport</string>
+    <string name="entertainment_panda_address">https://goo.gl/maps/xCpXriMAcru</string>
+    <string name="entertainment_panda_description"><![CDATA["Panda Park" is located in the shopping and entertainment center "Zelenopark" and belongs to small formats.
+    The center includes: rope routes at a height of 10 meters, climbing wall 11 meters high, a children\'s climbing wall 6 meters high,
+     and also the first in the capital attraction of free flight Rollglider, speeding up to 25 km / h!]]></string>
+    <string name="entertainment_panda_url">pandapark.org</string>
+    <string name="entertainment_panda_phone">+7 (800) 500–56–37</string>
+    <string name="entertainment_panda_fees">Tickets 200 – 1200 rubles</string>
+    <string name="entertainment_panda_open_hours">10:00AM – 10:00PM</string>
+
+    <string name="entertainment_shtos">Shtos</string>
+    <string name="entertainment_shtos_type">pool hall</string>
+    <string name="entertainment_shtos_address">https://goo.gl/maps/UgSjP8XiqY62</string>
+    <string name="entertainment_shtos_description"><![CDATA[Billiard club "Shtos" welcomes all fans of billiards on the page of your site!
+    To our regular customers and guests we offer a unique opportunity to spend your leisure time perfectly.
+    For you, a pleasant friendly atmosphere, always friendly and understanding staff, dozens of like-minded people ready to share your passion with you.]]></string>
+    <string name="entertainment_shtos_url">shtos.ru</string>
+    <string name="entertainment_shtos_phone">+7 (499) 729–91–29</string>
+    <string name="entertainment_shtos_fees">From 210 rub./hour</string>
+    <string name="entertainment_shtos_open_hours">10:00AM – 10:00PM</string>
+
+    <!-- RESTAURANTS -->
+    <string name="restaurant_dodo">Dodo Pizza</string>
+    <string name="restaurant_dodo_type">pizza</string>
+    <string name="restaurant_dodo_address">https://goo.gl/maps/QP1ZUnLK8vG2</string>
+    <string name="restaurant_dodo_description"><![CDATA[Usually people come to Dodo Pizza to just eat.
+    On the street there is a promoter, distributes leaflets about pieces of pizza for twenty rubles or something else profitable. We do this as the first step - to get acquainted.
+    \nBut for us, Dodo is not just pizza. This and pizza too, but first of all this is a big thing that inspires us, makes every morning wake up and with interest continue to work.]]></string>
+    <string name="restaurant_dodo_url">dodopizza.ru</string>
+    <string name="restaurant_dodo_phone">+7 (800) 333–00–60</string>
+    <string name="restaurant_dodo_fees">₽₽</string>
+    <string name="restaurant_dodo_open_hours">9:00AM — 12:00AM</string>
+
+    <string name="restaurant_temple">Temple Bar</string>
+    <string name="restaurant_temple_type">restaurant, bar</string>
+    <string name="restaurant_temple_address">https://goo.gl/maps/hJLevUg4ZEC2</string>
+    <string name="restaurant_temple_description"><![CDATA[If you are looking for a beer restaurant in Zelenograd with excellent cuisine, a rich assortment of alcohol and a truly unique atmosphere - welcome to the Temple Bar!
+    \nHere, everyone will be a welcome guest - both a cheerful student company and solid business people.]]></string>
+    <string name="restaurant_temple_url">templebar.ru</string>
+    <string name="restaurant_temple_phone">+7 (499) 734–89–91</string>
+    <string name="restaurant_temple_fees">₽₽</string>
+    <string name="restaurant_temple_open_hours"><![CDATA[sun-thu: 12:00PM - 12:00AM, \nfri-sat: 12:00PM - 02:00AM]]></string>
+
+    <string name="restaurant_dikanka">Dikanka</string>
+    <string name="restaurant_dikanka_type">Ukrainian</string>
+    <string name="restaurant_dikanka_address">https://goo.gl/maps/uJiXdLVnPnQ2</string>
+    <string name="restaurant_dikanka_description"><![CDATA[Every weekend there are different entertainment programs. Bayanists, balalaika, jugglers and popular "artists."
+    \nFree children's animation from Friday to Sunday.]]></string>
+    <string name="restaurant_dikanka_url">корчма-диканька.рф</string>
+    <string name="restaurant_dikanka_phone">+7 (495) 765–74–55</string>
+    <string name="restaurant_dikanka_fees">₽₽</string>
+    <string name="restaurant_dikanka_open_hours"><![CDATA[sun–thu: 12:00PM – 01:00AM,\nfri–sat: 12:00PM – 03:00AM]]></string>
+
+    <string name="restaurant_tanuki">Tanuki</string>
+    <string name="restaurant_tanuki_type">Japanese</string>
+    <string name="restaurant_tanuki_address">https://goo.gl/maps/cQ18mPAiuDR2</string>
+    <string name="restaurant_tanuki_description"><![CDATA[Tanuki is a funny animal from Japanese fairy tales, endowed with supernatural, magical abilities, bringing good luck.
+    \nSo Tanuki is known all over the world. At us Tanuki is a network of restaurants of the Japanese kitchen.
+    This is not just a restaurant - it\'s an original culture of Japan on the territory of Russia and Ukraine.
+    \nTanuki is truly home-made Japanese cuisine that can not be confused with anything else.]]></string>
+    <string name="restaurant_tanuki_url">tanuki.ru</string>
+    <string name="restaurant_tanuki_phone">+7 (495) 984–42–38</string>
+    <string name="restaurant_tanuki_fees">₽₽</string>
+    <string name="restaurant_tanuki_open_hours">11:30AM - 12:00AM</string>
+
+    <string name="restaurant_mcdonalds">McDonald\'s</string>
+    <string name="restaurant_mcdonalds_type">Fast Food</string>
+    <string name="restaurant_mcdonalds_address">https://goo.gl/maps/ExRHgwyT2fK2</string>
+    <string name="restaurant_mcdonalds_description"><![CDATA[Breakfast, lunch, kid\'s menu]]></string>
+    <string name="restaurant_mcdonalds_url">mcdonalds.ru</string>
+    <string name="restaurant_mcdonalds_phone">+7 (499) 734–39–09</string>
+    <string name="restaurant_mcdonalds_fees">₽</string>
+    <string name="restaurant_mcdonalds_open_hours">06:00AM - 12:00AM</string>
+
+    <!-- HOTELS -->
+    <string name="hotel_bonjour">Bonjour Hotel</string>
+    <string name="hotel_bonjour_type">hotel</string>
+    <string name="hotel_bonjour_address">https://goo.gl/maps/aeTcW5jpVnz</string>
+    <string name="hotel_bonjour_description"><![CDATA[Featuring free WiFi throughout the property, Hotel Bonjour Zelenograd offers accommodations in Zelenograd, just 38.6 km from Moscow.
+    \nCertain units feature a sitting area for your convenience. A flat-screen TV is available.
+    \nThere is a 24-hour front desk at the property.
+    \nKhimki is 19.3 km from Hotel Bonjour Zelenograd, and Zvenigorod is 37 km away. The nearest airport is Sheremetyevo International Airport, 14.5 km from Hotel Bonjour Zelenograd. ]]></string>
+    <string name="hotel_bonjour_url">bonjour-hotel.ru</string>
+    <string name="hotel_bonjour_phone">8 (499) 740–90–008</string>
+    <string name="hotel_bonjour_fees">from 3500 rubles per night</string>
+    <string name="hotel_bonjour_open_hours">day-and-night</string>
+
+    <string name="hotel_record">Record</string>
+    <string name="hotel_record_type">hotel</string>
+    <string name="hotel_record_address">https://goo.gl/maps/kTwWNiFej862</string>
+    <string name="hotel_record_description"><![CDATA[Record Hotel is located in Zelenograd, 38.6 km from Moscow and 20.9 km from Khimki.
+    \nSome units include a sitting area for your convenience. All rooms are equipped with a private bathroom. A flat-screen TV is featured.
+    \nThere is a 24-hour front desk at the property.]]></string>
+    <string name="hotel_record_url">http://www.recordhotel.ru/</string>
+    <string name="hotel_record_phone">+7 (499) 733–00–55</string>
+    <string name="hotel_record_fees">Economy room from 2500 rub.</string>
+    <string name="hotel_record_open_hours"><![CDATA[Check-in time – 14.00,\ncheck-out time – 12.00 o’clock Moscow time]]></string>
+
+    <string name="hotel_mikron">Mikron</string>
+    <string name="hotel_mikron_type">hotel</string>
+    <string name="hotel_mikron_address">https://goo.gl/maps/JMYh25wXq5p</string>
+    <string name="hotel_mikron_description"><![CDATA[   Mikron Mini Hotel is located in Zelenograd, 35.4 km from Moscow and 17.7 km from Khimki. Guests can enjoy the on-site restaurant.
+    \nYou will find a kettle in the room. A flat-screen TV is featured.
+    \nYou will find a 24-hour front desk at the property.
+    \nZvenigorod is 37 km from Mikron Mini Hotel, and Mytishchi is 33.8 km away. The nearest airport is Sheremetyevo International Airport, 11.3 km from Mikron Mini Hotel.]]></string>
+    <string name="hotel_mikron_url">https://www.zelenograd.ru/catalog/directory/235/spec/</string>
+    <string name="hotel_mikron_phone">+7 (499) 735–83–46</string>
+    <string name="hotel_mikron_fees">Room from 3000 rub.</string>
+    <string name="hotel_mikron_open_hours">day-and-night</string>
+
+    <string name="hotel_stay">Stay House</string>
+    <string name="hotel_stay_type">hostel</string>
+    <string name="hotel_stay_address">https://goo.gl/maps/jpwejXzcyL72</string>
+    <string name="hotel_stay_description"><![CDATA[   ]]></string>
+    <string name="hotel_stay_url">greendayhostel.ru</string>
+    <string name="hotel_stay_phone">+7 499 343–97–90</string>
+    <string name="hotel_stay_fees">Room from 1900 rub.</string>
+    <string name="hotel_stay_open_hours">day-and-night</string>
+
+    <string name="hotel_andreevka">Andreevka Hotel</string>
+    <string name="hotel_andreevka_type">hotel</string>
+    <string name="hotel_andreevka_address">https://goo.gl/maps/h7F3wTbxWfT2</string>
+    <string name="hotel_andreevka_description"><![CDATA[Andreevka Hotel offers accommodations in Andreyevka.
+    \nEvery room has a flat-screen TV. Each room has a private bathroom.
+    \nYou will find a 24-hour front desk, an ATM, hairdresser\'s and shops at the property.
+    \nMoscow is 38.6 km from Andreevka Hotel, and Khimki is 22.5 km away. Sheremetyevo International Airport is 17.7 km from the property.]]></string>
+    <string name="hotel_andreevka_url"> </string>
+    <string name="hotel_andreevka_phone">+7 499 503–88–88</string>
+    <string name="hotel_andreevka_fees">Room from 2500 rub.</string>
+    <string name="hotel_andreevka_open_hours">day-and-night</string>
+
+</resources>
